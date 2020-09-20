@@ -20,9 +20,9 @@ dependencies {
 }
 
 group = 'com.vijayforvictory'
-version = '0.0.1-SNAPSHOT'
+version = '1.0'
 description = 'SprintBootRestDemo'
-sourceCompatibility = '1.8'
+sourceCompatibility = '11'
 
 publishing {
     publications {
